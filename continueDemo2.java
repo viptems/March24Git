@@ -1,6 +1,5 @@
 public class ContinueDemo {
 
-<<<<<<< HEAD
 	public static void main(String args[]){}
 	/*
 	 * for(int i=0;i<10;i++){
@@ -152,7 +151,7 @@ public class ContinueDemo {
 	System.out.println("END");
 
 }}
-=======
+
 	public static void main(String args[]) {
 		for (int i = 0; i < 10; i++) {
 
@@ -307,4 +306,3 @@ public class ContinueDemo {
 
 	}
 }
->>>>>>> NewBranch
