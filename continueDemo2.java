@@ -145,7 +145,18 @@ public class ContinueDemo {
 	{
 		break; // unreachable
 		System.out.println("hii");
+<<<<<<< HEAD
 
+=======
+		
+	}*/
+	System.out.println("Hello from Ayush Rastogi");
+
+	for(int i=0;i<10;i++){
+		 break;  // unreachable
+		System.out.println("hii");
+		
+>>>>>>> c7a642b519729d60fcfe36146ae0943ac1e8310e
 	}
 
 	System.out.println("END");
